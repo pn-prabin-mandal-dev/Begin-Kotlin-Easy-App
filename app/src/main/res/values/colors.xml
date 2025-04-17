@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="initialColor">#1D116D</color>
+    <color name="finalColor">#8E93F0</color>
+
+    <!-- Light Theme Colors -->
+    <color name="primary_color">#1D116D</color> <!-- A vibrant purple -->
+    <color name="secondary_color">#8E93F0</color> <!-- A teal accent -->
+    <color name="background_light">#FFF5F5F5</color> <!-- Light gray background -->
+    <color name="surface_light">#FFFFFFFF</color> <!-- White surface -->
+    <color name="on_background_light">#FF212121</color> <!-- Dark gray text -->
+    <color name="on_surface_light">#FF424242</color> <!-- Medium gray text -->
+    <color name="primary_variant_light">#FF3700B3</color> <!-- Darker purple -->
+    <color name="secondary_variant_light">#FF018786</color> <!-- Darker teal -->
+
+    <!-- Dark Theme Colors -->
+    <color name="primary_dark">#1D116D</color> <!-- Lighter purple -->
+    <color name="secondary_dark">#8E93F0</color> <!-- Same teal for consistency -->
+    <color name="background_dark">#282626</color> <!-- Dark gray background -->
+    <color name="surface_dark">#FF1E1E1E</color> <!-- Slightly lighter dark surface -->
+    <color name="on_background_dark">#FFE0E0E0</color> <!-- Light gray text -->
+    <color name="on_surface_dark">#FFB0B0B0</color> <!-- Medium light gray text -->
+    <color name="primary_variant_dark">#FF6200EE</color> <!-- Vibrant purple -->
+    <color name="secondary_variant_dark">#FF018786</color> <!-- Darker teal -->
+    <color name="white">#FFFFFFFF</color> <!-- White for onPrimary -->
+</resources>
