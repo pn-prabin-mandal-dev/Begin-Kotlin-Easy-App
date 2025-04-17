@@ -39,3 +39,7 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/BeginKotlinEasy.git
+
+### 📚 Credits / Inspiration
+
+Big thanks to the Kotlin Tutorial app (By One Percent ) for inspiring the UI layout and design structure.
