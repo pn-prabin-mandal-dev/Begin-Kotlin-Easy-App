@@ -37,7 +37,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BeginKotlinEasy.git
+   git clone https://github.com/pn-prabin-mandal-dev/Begin-Kotlin-Easy-App.git
 
 ### 📚 Credits / Inspiration
 
