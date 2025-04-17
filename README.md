@@ -18,7 +18,8 @@
 ## 📷 Screenshots
 | Home Screen |program & syntax | Tutorial Detail |Interview Question | Quiz Screen |
 |-------------|-------------|------------------|
-| <img src="home_screen.jpg" width="300"/> | ![Program](home_screen.jpg) | ![Tutorial](home_screen.jpg) |
+| <img src="home_screen.jpg" width="300"/> | <img src="home_screen.jpg" width="300"/> |
+| <img src="home_screen.jpg" width="300"/> | <img src="home_screen.jpg" width="300"/> |
 
 ---
 
