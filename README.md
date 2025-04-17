@@ -29,8 +29,7 @@
 - **Jetpack Compose** – Modern UI toolkit
 - **MVVM Architecture** – For clean separation of logic and UI
 - **Room Database** – Local storage for offline content and user progress
-- **Retrofit** *(in learning phase)* – Used in separate Weather App
-- **DeepSeek** – Assisted with backend setup and integration
+- **DeepSeek, Grok & ChatGPT** – Assisted with backend setup and integration
 
 ---
 
