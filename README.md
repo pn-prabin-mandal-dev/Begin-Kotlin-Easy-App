@@ -14,6 +14,14 @@
 
 ---
 
+
+## 📷 Screenshots
+| Home Screen |program & syntax | Tutorial Detail |Interview Question | Quiz Screen |
+|-------------|-------------|------------------|
+| ![Home](home_screen.jpg) | ![Program](home_screen.jpg) | ![Tutorial](home_screen.jpg) |
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Kotlin**
