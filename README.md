@@ -16,7 +16,6 @@
 
 
 ## 📷 Screenshots
-|===================================================================================================================|
 | <img src="home_screen.jpg" width="200"/> | <img src="program_screen.jpg" width="200"/> |
 | <img src="tutorial_screen.jpg" width="200"/> | <img src="tutorial_detailed_screen2.jpg" width="200"/> |
 | <img src="intreview_screen_expanded_condition.jpg" width="200"/> | <img src="quiz_screen.jpg" width="200"/> |
