@@ -42,4 +42,4 @@
 
 ### 📚 Credits / Inspiration
 
-Big thanks to the [Kotlin Tutorial App](https://play.google.com/store/apps/details) for inspiring the UI layout and design structure.
+Big thanks to the [Kotlin Tutorial App](https://play.google.com/store/apps/details?id=club.onepercent.kotlin_tutorial&hl=en_IN) for inspiring the UI layout and design structure.
